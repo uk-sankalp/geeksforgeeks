@@ -1,0 +1,12 @@
+class Solution {
+    public int numWaterBottles(int numBottles, int numExchange) {
+        int current=numBottles;
+        int remaining=numBottles;
+        while(remaining>=numExchange){
+            remaining=remaining-numExchange;
+            current++;
+            remaining++;
+        }
+    return current;
+    }
+}
