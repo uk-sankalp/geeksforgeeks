@@ -1,0 +1,13 @@
+class Solution {
+    public int maxBottlesDrunk(int numBottles, int numExchange) {
+        int current=numBottles;
+        int remaining=numBottles;
+        while(remaining>=numExchange){
+            remaining=remaining-numExchange;
+            numExchange++;
+            current++;
+            remaining++;
+        }
+    return current;
+    }
+}
