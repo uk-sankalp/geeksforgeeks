@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Medium  
 **Tags:** Array, Two Pointers, Sorting  
-**Link:** [https://leetcode.com/problems/4sum/description/](https://leetcode.com/problems/4sum/description/)
+**Link:** [https://leetcode.com/problems/4sum/](https://leetcode.com/problems/4sum/)
 
 ---
 
