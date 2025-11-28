@@ -11,3 +11,4 @@ class Solution {
         return l<<shift;
         }
 }
+// demo
